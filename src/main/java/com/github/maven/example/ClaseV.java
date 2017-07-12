@@ -28,5 +28,9 @@ package com.github.maven.example;
  * @author Victoria
  */
 public class ClaseV {
-    
+    public void holi(){
+        /**
+         * holii
+         */
+    }
 }
