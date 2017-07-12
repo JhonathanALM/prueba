@@ -63,5 +63,10 @@ public class Widget {
         public void jhonathan()
         {
             System.out.println("mi rama j");
-        }       
+        }     
+        public void clase2()
+        {
+            System.out.println(":v");
+        }
+        
 }
