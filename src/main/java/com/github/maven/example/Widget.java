@@ -14,6 +14,8 @@ public class Widget {
 		enabled = true;
 	}
 
+        
+        
 	/**
 	 * Is the widget currently enabled?
 	 * 
@@ -33,6 +35,19 @@ public class Widget {
 		this.enabled = enabled;
 		return this;
 	}
+        
+        /**
+         * Probando estos ejercicios putitos
+         */
+        
+        
+        /**
+         * dicen que soy muy joven pra amar :V
+         */
+        
+        /**
+         * holiiii :v
+         */
         public void mensaje()
         {
             System.out.println("Version 1.0  sera q si");
