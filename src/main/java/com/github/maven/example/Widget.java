@@ -57,5 +57,7 @@ public class Widget {
             System.out.println("4ta linea");
             System.out.println("quinta linea");
         }
-        
+        public void vicky(){
+            System.out.println("holi");
+        }
 }
