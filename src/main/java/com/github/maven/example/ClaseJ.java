@@ -5,5 +5,7 @@ package com.github.maven.example;
  */
 public class ClaseJ 
 {
-
+    public void claseJ(){
+        System.out.println("Acabo de trabajar en mi clase");
+    }
 }
