@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <duplication lines="1" tokens="3">
+      <file line="13"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="22"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <codefragment><![CDATA[	public Widget() {]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="2">
+      <file line="8"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="32"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <codefragment><![CDATA[	private boolean enabled;]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="2">
+      <file line="13"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="32"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <codefragment><![CDATA[	public Widget() {]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="2">
+      <file line="13"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="22"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="32"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <codefragment><![CDATA[	public Widget() {]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="2">
+      <file line="14"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="33"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <codefragment><![CDATA[		enabled = true;]]></codefragment>
+   </duplication>
+   <duplication lines="8" tokens="2">
+      <file line="15"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="24"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <codefragment><![CDATA[	}
+
+	/**
+	 * Is the widget currently enabled?
+	 * 
+	 * @return true if enabled, false otherwise
+	 */
+	public boolean isEnabled() {]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="1">
+      <file line="6"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="13"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="22"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="32"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <codefragment><![CDATA[public class Widget {]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="1">
+      <file line="6"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="13"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="32"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <codefragment><![CDATA[public class Widget {]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="1">
+      <file line="6"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="13"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="22"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="32"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <codefragment><![CDATA[public class Widget {]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="1">
+      <file line="8"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="22"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="32"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <codefragment><![CDATA[	private boolean enabled;]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="1">
+      <file line="8"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="14"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="23"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="32"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="33"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="33"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <codefragment><![CDATA[	private boolean enabled;]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="1">
+      <file line="13"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="22"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="32"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <codefragment><![CDATA[	public Widget() {]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="1">
+      <file line="15"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="24"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="35"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="36"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <codefragment><![CDATA[	}]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="1">
+      <file line="23"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="34"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <codefragment><![CDATA[		return enabled;]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="1">
+      <file line="33"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <file line="34"
+            path="C:\Users\jhona\Desktop\github-maven-example-master\example\src\main\java\com\github\maven\example\Widget.java"/>
+      <codefragment><![CDATA[		this.enabled = enabled;]]></codefragment>
+   </duplication>
+</pmd-cpd>
