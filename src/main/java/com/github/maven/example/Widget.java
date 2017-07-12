@@ -63,5 +63,5 @@ public class Widget {
         public void jhonathan()
         {
             System.out.println("mi rama j");
-        }
+        }       
 }
