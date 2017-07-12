@@ -36,5 +36,6 @@ public class Widget {
         public void mensaje()
         {
             System.out.println("Version 1.0  sera q si");
+            System.out.println("otra vez");
         }
 }
