@@ -33,4 +33,8 @@ public class Widget {
 		this.enabled = enabled;
 		return this;
 	}
+        public void mensaje()
+        {
+            System.out.println("Version 1.0  sera q si");
+        }
 }
