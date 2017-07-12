@@ -14,6 +14,8 @@ public class Widget {
 		enabled = true;
 	}
 
+        
+        
 	/**
 	 * Is the widget currently enabled?
 	 * 
@@ -41,5 +43,9 @@ public class Widget {
         
         /**
          * dicen que soy muy joven pra amar :V
+         */
+        
+        /**
+         * holiiii :v
          */
 }
