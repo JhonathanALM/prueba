@@ -60,4 +60,8 @@ public class Widget {
         public void vicky(){
             System.out.println("holi");
         }
+        public void jhonathan()
+        {
+            System.out.println("mi rama j");
+        }
 }
