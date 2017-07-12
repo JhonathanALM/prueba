@@ -14,6 +14,8 @@ public class Widget {
 		enabled = true;
 	}
 
+        
+        
 	/**
 	 * Is the widget currently enabled?
 	 * 
@@ -46,4 +48,10 @@ public class Widget {
         /**
          * hola
          */
+         
+        public void mensaje()
+        {
+            System.out.println("Version 1.0  sera q si");
+            System.out.println("otra vez");
+        }
 }
