@@ -68,5 +68,9 @@ public class Widget {
         {
             System.out.println(":v");
         }
+        public void clase3()
+        {
+            System.out.println(":'v");
+        }
         
 }
